@@ -1,2 +1,2 @@
 # serwis pogodowy
-To jest serwis pogodowy, wykorzystujący dane API w języku JSON.
+Tu znajdują się pliki projektu
